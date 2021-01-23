@@ -2,10 +2,10 @@
 Crowd Counting for The Project of The CS 464 - Introduction to Machine Learning
 
 # Team Members
-- Berk Güler
-- Munib Emre Sevilgen
-- Şeyma Aybüke Ertekin
-- Yağmur Özkök
+- [Berk Güler](https://github.com/Wondrous27)
+- [Munib Emre Sevilgen](https://github.com/emresevilgen)
+- [Şeyma Aybüke Ertekin](https://github.com/aybukeertekin)
+- [Yağmur Özkök](https://github.com/yagmurozkok)
 
 # Project Description
 In this project, we have worked on the crowd counting problem. Crowd counting is

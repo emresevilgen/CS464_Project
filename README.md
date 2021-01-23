@@ -21,8 +21,8 @@ augmentation worked well for MCNN, while we cannot take the response we
 expected from CSRNet models.
 
 # Reports and Presentation
-- [Proposal](doc/Proposal.pdf)
-- [Progress Report](doc/Progress%20Report.pdf)
-- [Final Report](doc/Final%20Report.pdf)
-- [Presentation](doc/Presentation.pdf)
+- [Proposal](docs/Proposal.pdf)
+- [Progress Report](docs/Progress%20Report.pdf)
+- [Final Report](docs/Final%20Report.pdf)
+- [Presentation](docs/Presentation.pdf)
 
